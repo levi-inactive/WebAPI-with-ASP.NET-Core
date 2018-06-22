@@ -1,0 +1,14 @@
+F:\Repositories\GitHub\WebAPI-with-ASP.NET-Core\bin\Debug\netcoreapp2.1\TodoApi.deps.json
+F:\Repositories\GitHub\WebAPI-with-ASP.NET-Core\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.json
+F:\Repositories\GitHub\WebAPI-with-ASP.NET-Core\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.dev.json
+F:\Repositories\GitHub\WebAPI-with-ASP.NET-Core\bin\Debug\netcoreapp2.1\TodoApi.dll
+F:\Repositories\GitHub\WebAPI-with-ASP.NET-Core\bin\Debug\netcoreapp2.1\TodoApi.pdb
+F:\Repositories\GitHub\WebAPI-with-ASP.NET-Core\obj\Debug\netcoreapp2.1\TodoApi.csprojAssemblyReference.cache
+F:\Repositories\GitHub\WebAPI-with-ASP.NET-Core\obj\Debug\netcoreapp2.1\TodoApi.csproj.CoreCompileInputs.cache
+F:\Repositories\GitHub\WebAPI-with-ASP.NET-Core\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cache
+F:\Repositories\GitHub\WebAPI-with-ASP.NET-Core\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cs
+F:\Repositories\GitHub\WebAPI-with-ASP.NET-Core\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfoInputs.cache
+F:\Repositories\GitHub\WebAPI-with-ASP.NET-Core\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfo.cs
+F:\Repositories\GitHub\WebAPI-with-ASP.NET-Core\obj\Debug\netcoreapp2.1\TodoApi.RazorTargetAssemblyInfo.cache
+F:\Repositories\GitHub\WebAPI-with-ASP.NET-Core\obj\Debug\netcoreapp2.1\TodoApi.dll
+F:\Repositories\GitHub\WebAPI-with-ASP.NET-Core\obj\Debug\netcoreapp2.1\TodoApi.pdb
